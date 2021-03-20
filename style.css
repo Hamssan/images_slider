@@ -137,4 +137,8 @@ body {
   .slide.current .content {
     transform: translateY(-300px);
   }
+
+  .buttons {
+    display: none;
+  }
 }
